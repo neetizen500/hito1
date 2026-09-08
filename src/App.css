@@ -1,0 +1,8 @@
+.pizza-thumb {
+  height: 180px;
+  background: linear-gradient(135deg, #fceabb, #f8b500);
+}
+
+.pizza-emoji {
+  font-size: 4rem;
+}
